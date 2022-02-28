@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 👨 I’m Emdadul Haque (Rafat)
 - 🔭 I’m currently working on software architecture. 
-- 🌱 I’m currently learning everything about software. Also, Help me to learn about good software design. 
+- 🌱 I’m currently learning everything about software. Also, help me to learn about good software designing. 
 - 📫 How to reach me: https://rafat97.github.io/
 
 
