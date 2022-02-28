@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👨 I’m Emdadul Haque (Rafat)
+- 🔭 I’m currently working on software architecture. 
+- 🌱 I’m currently learning everything about software. Also, Help me to learn about good software design. 
+- 📫 How to reach me: https://rafat97.github.io/
+
+
+<p align="center">
+<img src="/assets/github-contribution-grid-snake.svg" title="@rafat97-github-snake" alt="@rafat97-github-snake"">
+<!--   ![*](/assets/github-contribution-grid-snake.svg) -->
+</p>
