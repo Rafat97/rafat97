@@ -20,6 +20,10 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning everything about software. Also, help me to learn about good software designing. 
 - 📫 How to reach me: https://rafat97.github.io/
 
+### TODO 
+- Creating high availability application using VM(AWS ec2) services.
+
+
 
 <p align="center">
 <img src="/assets/github-contribution-grid-snake.svg" title="@rafat97-github-snake" alt="@rafat97-github-snake"">
