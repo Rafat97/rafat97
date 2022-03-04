@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://rafat97.github.io/
 
 ### TODO 
-- Creating high availability application system architecture using VM(AWS ec2) services.
+- Creating highly availability application system architecture using VM(AWS ec2) services.
 
 
 
