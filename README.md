@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### TODO 
 - Creating highly availability application system architecture using VM(AWS ec2) services.
-
+- Creating a serverless basic e-commerce application template using `api gateway, lembda, dynamodb`
 
 
 <p align="center">
