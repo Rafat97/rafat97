@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 - [ ] Creating highly availability application system architecture using VM(AWS ec2) services.
 - [ ] Creating a serverless basic e-commerce application template using `api gateway, lembda, dynamodb`
 - [ ] Creating a serverless vod(video on demand)
+- [ ] Creating a serverless template based email sending service. 
 
 <p align="center">
 <img src="/assets/github-contribution-grid-snake.svg" title="@rafat97-github-snake" alt="@rafat97-github-snake"">
