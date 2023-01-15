@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 - [ ] Creating a serverless basic e-commerce application template using `api gateway, lembda, dynamodb`
 - [ ] Creating a serverless vod(video on demand)
 - [ ] Creating a serverless template based email sending service. 
+- [ ] Creating a database storage engine. 
 
 
 <p align="center">
