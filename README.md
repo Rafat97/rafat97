@@ -16,11 +16,13 @@ Here are some ideas to get you started:
 -->
 
 - 👨 I’m Emdadul Haque (Rafat)
-- 🔭 I’m currently working on software architecture. 
+- 🔭 I’m currently working on software syatem design and architecture. 
+- 🤖🧠 I’m always open for AI research. 
 - 🌱 I’m currently learning everything about software. Also, help me to learn about good software designing. 
 - 📫 How to reach me: https://rafat97.github.io/
 - 👀 See my works https://gist.github.com/Rafat97/f4d0053b26106c03d89fa1ae014cbaa4
 - 🤖 My bot Account [Rafat97bot](https://github.com/Rafat97bot)
+- 🧑‍🔬Research Paper [Book Cover Synthesis from the Summary](https://ieeexplore.ieee.org/document/10017541)
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 <p align="center">
