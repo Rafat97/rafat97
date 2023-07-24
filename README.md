@@ -42,6 +42,6 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-<img src="/assets/github-contribution-grid-snake.svg" title="@rafat97-github-snake" alt="@rafat97-github-snake"">
+<img src="/assets/github-snake-dark.svg" title="@rafat97-github-snake" alt="@rafat97-github-snake"">
 <!--   ![*](/assets/github-contribution-grid-snake.svg) -->
 </p>
