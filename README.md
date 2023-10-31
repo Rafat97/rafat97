@@ -33,11 +33,12 @@ Here are some ideas to get you started:
 
 
 ### TODO 
-- [x] Creating a real time dashbord & a scalable architecture that's can handle 10M+ data. [Repo Link - real-time-user-dashboard](https://github.com/Rafat97/real-time-user-dashboard)
-- [ ] Creating highly availability application system architecture using VM(AWS ec2) services.
+- [x] Creating a real-time dashbord & a scalable architecture that's can handle 10M+ data. [Repo Link - real-time-user-dashboard](https://github.com/Rafat97/real-time-user-dashboard)
+- [x] Enterprise async messaging system [Repo Link - EAMS](https://github.com/Rafat97/enterprise-messaging-system) 
+- [ ] Creating highly available application system architecture using VM(AWS ec2) services.
 - [ ] Creating a serverless basic e-commerce application template using `api gateway, lembda, dynamodb`
-- [ ] Creating a serverless vod(video on demand)
-- [ ] Creating a serverless template based email sending service. 
+- [ ] Creating a serverless VOD (video on demand)
+- [ ] Creating a serverless template-based email sending service. 
 - [ ] Creating a database storage engine. 
 
 
